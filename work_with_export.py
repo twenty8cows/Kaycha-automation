@@ -58,4 +58,4 @@ else:
         f"Data processed successfully. New workbook saved as: {processed_file_path}")
 
 os.system(operating_file_path_instance.add_to_local)
-print("Chained script add to sp execution completed.")
+print("Chained script add to local execution completed.")
